@@ -1,0 +1,1 @@
+{"description":"The phone battery's last text message to the charger it waited for all day — one line written to /output/entry.txt.","devDependencies":{"tsx":"^4.0.0"},"license":"MIT","name":"u-alven-the-battery-s-last-text-to-its-charger-4278cfab","scripts":{"start":"npx tsx main.ts"},"type":"module","version":"1.0.0"}
